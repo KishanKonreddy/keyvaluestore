@@ -92,7 +92,7 @@ address = "localhost:8082"
 
 ## Development & Contributing
 
-**Lead Developer**: Dheeraj Kumar Alla
+**Lead Developer**: Kishan Kumar Reddy Konreddy
 
 We welcome contributions! Please feel free to submit issues, feature requests, or pull requests to help improve this distributed storage solution.
 
